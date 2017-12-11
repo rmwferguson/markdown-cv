@@ -84,35 +84,40 @@ __RMW Ferguson__, F Coulon, R Villa: Influence of glycerol overload on microbial
 ## Grants and Awards
 
 `2017`
-Grant: __The Aerosol Society Small Research Grant 2017__ - Using metagenomics for fine-scale resolution of pathogen functional and phylogenetic diversity in farm bioaerosols
+Grant: __The Aerosol Society Small Research Grant 2017__ - Using metagenomics for fine-scale resolution of pathogen functional and phylogenetic diversity in farm bioaerosols (£3000)
 
 `2016`
-Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate structure of bioaerosol bacterial communities in different size factions using culture independent methods.
+Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate structure of bioaerosol bacterial communities in different size factions using culture independent methods. (£1200)
 
 ## lab skills
 
 ### Molecular biology
-* Standard skills such as electrophoresis and aseptic methods.
-* PCR, qPCR
-*	Next gen seq library prep with netxtra indexes.	
+* Standard skills such as electrophoresis and aseptic methods
+* PCR, RT-qPCR
+*	Next gen sequncing library preparation 	
 *	DNA extraction and purification (various and method development)
 *	DGGE fingerprinting
 *	PLFA and PLEL fingerprinting
 *	DNA quantification with Pico Green
 *	DNA sizing and quantification with Bioanalyzer
-* Analytical chemistry
+* loop mediated isothermal amplification (LAMP)
+
+### Analytical chemistry
 * GC-MS, GC-FID, GC, TOC, and HPLC 
 * GC method development and QC
 * Quantification using external and internal std
 * Lipid and hydrocarbon extraction from various matrix
-* Sample preparation, PLFA and PLEL
-* General lab skills, method development, trouble shooting, risk assessment, COSHH
+
+### General lab skills
+* method development
+* trouble shooting and problem solving
+* risk assessment, COSHH
 * Culture based microbiology and systematic identification
 *	Culture based microbiology
-*Basic microscopy
+* Basic microscopy
 *	Waste water analysis (alkalinity, COD, etc.)
-*Flow cytometry
-*Fish hematologic analysis and immune assays 
+* Flow cytometry
+* Fish hematologic analysis and immune assays 
 
 ## Statistics and bioinformatics
 
@@ -123,7 +128,9 @@ Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate stru
   * Multivariate analysis (Ordination, multiple linear regression)
   * Regression trees
   
+  
 * Analysis of Meta-barcoded next generation sequencing data
+* Handling large datasets 
 * Sequence data handling (use of FASTA,FASTQ etc. file formats) 
 * Initial data QC and clean up 
 * QIIME, Mothur, RDP pipeline and other standalone tools
@@ -133,7 +140,7 @@ Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate stru
   * Ordination (MDS, PCA, CCA, etc.)
   * Significance testing (PerMANOVA, simper, ANOSIM)
   * OTU significance testing (differential abundance) with various methods inc LEFSE
-* Handling large datasets 
+* Phylogenics 
 
 ## Computer skills
 * Linux
@@ -143,17 +150,93 @@ Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate stru
 * Latex
 * Comuter cluster use
 * Remote SSH computing
+* Windows and MS Office 
+
+## Field Skills
+
+* Planning and risk assessment
+* Air sampling for bioaerosols and PM – Essex University
+* Marine sampling with corers, grabs, trawls, CTD, and Niskin/Nansen bottles, Including deep-sea – Aberdeen University and Plymouth University.
+* Scientific Diving – Visual/photographic dive surveys and Collection of sediment corers -Coral Cay Conservation and Plymouth University.
+* Monitoring, Relocation, and supplementary feeding of critically endangered Olive White Eye - Mauritius Wildlife Foundation.
+* Collection of plant material and soil cores - ﬁeld assistant for Imperial Collage London.
+* Monitoring nesting successes of turtles - Katelios Group.
+* Invertebrate river bed surveys with kick nets - Plymouth University.
+* Identification of marine life UK and South Pacific.
+
+## Technical qualifications
+
+* HSE Pro SCUBA, 
+* RYA level 2 Power boat
+* GMDSS marine VHF
+* RYA survival at sea.
+* Full (clean) UK drivers licence.
+
+## Courses
+* Generalised Linear Modelling in R, Imperial College London
+* SItEMICRO course in Microbial Ecology. Messina Italy
+* Standing up for science media workshop, Sense about Science
+* Astrobiology and the Search for Extra-terrestrial Life, Coursera University of Edinburgh
+* Fundamentals of Aerosol Science, British Aerosol Society
+* Introduction to BioLinux (Essex)
+* Analytical chemistry for researchers (Canﬁeld, November 2010)
+
+## Conferences
+### Presentations
+
+EAC 2017 Zurich. The bioaerosol bacterial microbiome at urban, agricultural, and industrial sites: Exposure, size fraction and composition.
+
+British Aerosol Society focus meeting 10, Bioaerosols (2017) Novel Insights into the size distributions of bioaerosols.
+
+Bioaerosol, microbiome & lung disease symposium (2017) RIVM, Bilthoven- Rapid monitoring of bioaerosols in Urban, Agricultural and Industrial Environments. 
+
+BAS annual meeting 2016 Birmingham. Efficient and Rapid Recovery of bioaerosol DNA From the Air. 
+
+GASG 64 2016 Cranfield. Rapid monitoring of Bioaerosols – DNA collection and analysis.
+
+MASTS 4th annual conference 2014 Edinburgh. Linking biodiversity to ecosystem services in the deep sea.  
+
+MMEG 2013 Essex. Inﬂuence of microbial community structure on performance of anaerobic digestion.
+
+INTECOL 2013 London. Inﬂuence of microbial community structure on performance of anaerobic digestion. 
+
+SGM 2012 Dublin.  Inﬂuence of stress events on microbial communities in anaerobic digesters. 
+
+
+### Posters
+
+ISMOS 6 (San Diego) (2017) The Variable Influence of Dispersant on Degradation of Oil Hydrocarbons in Subarctic Deep-Sea Sediments at Low Temperatures (0–5 °C). 
+
+European Aerosol conference 2016 Tours. Rapid monitoring of bioaerosols in industrial, agricultural and urban environments.
+
+WasteEng 2012 Porto. Influence of glycerol overload on microbial communities in anaerobic digesters.
+
 
 ## Professional membership
 
+* Astrobiology Society of Britain
+* British Aerosol Society
+* Society for Applied Microbiology
+* Voice of Young Science
+* Sense About Science
 
+## ORCID
 
+0000-0001-7966-8350
 
+## Other resposibiltys and commities
 
+* Athena Swan Committee, School of Biological Sciences, Essex University. 
+* Early Career Researcher Committee, School of Biological Sciences, Essex University.
 
+## Journal Referee
 
-
-
+* Molecular Ecology Resources
+* Journal of Aerosol Science
+* Marine Pollution Bulletin
+* Indoor and Built Enivironment
+* Environmental Pollution
+* Environment International
 
 
 
