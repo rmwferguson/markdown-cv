@@ -18,9 +18,11 @@ __Senior postdoctoral researcher at the Univeristy of Essex__
 Developting rapid molecular tools for monitoring bioaerosols. 
 ## Specialized in
 
-Molecular Ecology, Enviromental Microbilogy
+Molecular Ecology, Enviromental Microbilogy, Microbial Ecology
 ## Research interests
-Microbial Ecology, Applied micrbiology Aerobiology, Bioaerosols, Bioremediation, Oil Microbiology, Aquaculture, Deepsea, Nanoparticles, Anerobic Digestion
+
+Applied micrbiology Aerobiology, Bioaerosols, Bioremediation, Oil Microbiology, Aquaculture, Deepsea, Nanoparticles, Anerobic Digestion
+
 ## Previous Employment
 `2014-2015`
 __Postdoctoral reserch assistant at the University of Aberdeen__
