@@ -21,11 +21,15 @@ Developting rapid molecular tools for monitoring bioaerosols.
 Molecular Ecology, Enviromental Microbilogy
 ## Research interests
 Microbial Ecology, Applied micrbiology Aerobiology, Bioaerosols, Bioremediation, Oil Microbiology, Aquaculture, Deepsea, Nanoparticles, Anerobic Digestion
-## Employment
+## Previous Employment
 `2014-2015`
-__Post Doctoral reserch assistant at the University of Aberdeen__
+__Postdoctoral reserch assistant at the University of Aberdeen__
 
 Investigating bacterial oil degradation in deepsea sediments.
+
+`2007-2008`
+__Field biologist, Mauricuous Wildlife foundation__
+Passerine revovery project 
 
 ## Education 
 `2010-2013`
