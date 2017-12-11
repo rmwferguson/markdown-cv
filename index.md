@@ -29,6 +29,7 @@ Investigating bacterial oil degradation in deepsea sediments.
 
 `2007-2008`
 __Field biologist, Mauricuous Wildlife foundation__
+
 Passerine revovery project 
 
 ## Education 
