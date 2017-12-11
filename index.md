@@ -89,6 +89,10 @@ Grant: __The Aerosol Society Small Research Grant 2017__ - Using metagenomics fo
 `2016`
 Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate structure of bioaerosol bacterial communities in different size factions using culture independent methods.
 
+## Skills
+
+## Profetional membership
+
 
 
 
