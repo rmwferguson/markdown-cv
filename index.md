@@ -50,6 +50,24 @@ __University of Plymouth__
 `1996-2003`
 __Bristol Cathedral School__
  - A Level Biology (B), Chemistry (B), and Music (B) 
+ 
+ ## Skills 
+ 
+* Problem slolving
+* Laboratoy work
+  * Molecular biology
+  * Microbiology
+  * Analytical chemistry 
+  * Next generation sequencing
+* Statistical analysis
+* Presentations
+* Data analysis
+* Field work
+* Scientific writing
+* Report writing
+* Budjet manegment
+
+ See below for specific details
 
 ## Publications
 
@@ -94,7 +112,7 @@ Award: __British Ecological Society Travel grant__ (INTECOL 2013)
 
 Award: __Society of general Microbiology travel grant__ (SGM Dublin 2012)
 
-## lab skills
+## Skills Long
 
 ### Molecular biology
 * Standard skills such as electrophoresis and aseptic methods
