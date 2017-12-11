@@ -37,18 +37,19 @@ __University of Plymouth__
 `2004 - 2007`
 __University of Plymouth__
 -Bsc(hons) Marine biology.
-## Grants and Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+## Grants and Awards
+
+`2017`
+Grant: The Aerosol Society Small Research Grant 2017, Using metagenomics for fine-scale resolution of pathogen functional and phylogenetic diversity in farm bioaerosols
+
+'2016`
+Grant: Aerosol Society Undergraduate Research Bursary
+
 
 ### Journals
 
