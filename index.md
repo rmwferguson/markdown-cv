@@ -24,7 +24,7 @@ Developing rapid molecular tools for monitoring bioaerosols.
 Molecular Ecology, Environmental Microbiology, Microbial Ecology
 ## Research interests
 
-Applied microbiology Aerobiology, Bioaerosols, Bioremediation, Oil Microbiology, Aquaculture, Deep-sea, Nanoparticles, Anaerobic Digestion
+Bioaerosols, Bioremediation, Oil Microbiology, Aquaculture, Deep-sea, Nanoparticles, Aerobiology, Anaerobic Digestion, Applied microbiology
 
 ## Previous Employment
 `2014-2015`
