@@ -7,9 +7,12 @@ Molecular Ecologist
 
 <div id="webaddress">
 <a href="rmwfer@essex.ac.uk">rmwfer@essex.ac.uk</a>
-| <a href="rmwferguson@gmail.com">rmwferguson@gmail.com</a>
-  | <a href="https://rmwferguson.wordpress.com/">rmwferguson.wordpress.com</a>
+   | <a href="rmwferguson@gmail.com">rmwferguson@gmail.com</a>
+   | <a href="https://rmwferguson.wordpress.com/">Personal Website</a>
+   | <a href="https://www1.essex.ac.uk/bs/staff/profile.aspx?ID=4521">Staff Webpage</a>
+   | <a href="https://scholar.google.co.uk/citations?user=H_F1eCkAAAAJ&hl=en">Google Scholar</a>
 </div>
+
 
 ## Current Employment
 `2015 onwards`
@@ -21,13 +24,13 @@ Developing rapid molecular tools for monitoring bioaerosols.
 Molecular Ecology, Environmental Microbiology, Microbial Ecology
 ## Research interests
 
-Applied microbiology Aerobiology, Bioaerosols, Bioremediation, Oil Microbiology, Aquaculture, Deepsea, Nanoparticles, Anaerobic Digestion
+Applied microbiology Aerobiology, Bioaerosols, Bioremediation, Oil Microbiology, Aquaculture, Deep-sea, Nanoparticles, Anaerobic Digestion
 
 ## Previous Employment
 `2014-2015`
 __Postdoctoral research assistant at the University of Aberdeen__
 
-Investigating bacterial oil degradation in deepsea sediments.
+Investigating bacterial oil degradation in deep-sea sediments.
 
 `2007-2008`
 __Field biologist, Mauritius Wildlife foundation__
@@ -45,7 +48,7 @@ __University of Plymouth__
 
 `2004-2007`
 __University of Plymouth__
- - Bsc(hons): Marine biology
+ - BSc(hons): Marine biology
 
 `1996-2003`
 __Bristol Cathedral School__
@@ -53,8 +56,10 @@ __Bristol Cathedral School__
  
  ## Skills 
  
-* Problem slolving
-* Laboratoy work
+* Problem solving
+* Scientific writing
+* Report writing
+* Laboratory work
   * Molecular biology
   * Microbiology
   * Analytical chemistry 
@@ -63,9 +68,7 @@ __Bristol Cathedral School__
 * Presentations
 * Data analysis
 * Field work
-* Scientific writing
-* Report writing
-* Budjet manegment
+* Budget management
 
  See below for specific details
 
@@ -77,7 +80,7 @@ __Bristol Cathedral School__
 
 ### Journal articles
 
-S Eduok, __RMW Fergusonn__, B Jefferson, R Villa, F Coulon: Aged-engineered nanoparticles effect on sludge anaerobic digestion performance and associated microbial communities. __Science of The Total Environment__ 12/2017; 609:232-241., DOI:10.1016/j.scitotenv.2017.07.178
+S Eduok, __RMW Ferguson__, B Jefferson, R Villa, F Coulon: Aged-engineered nanoparticles effect on sludge anaerobic digestion performance and associated microbial communities. __Science of The Total Environment__ 12/2017; 609:232-241., DOI:10.1016/j.scitotenv.2017.07.178
 
 __RMW Ferguson__, E Gontikaki, JA Anderson, U Witte: The Variable Influence of Dispersant on Degradation of Oil Hydrocarbons in Subarctic Deep-Sea Sediments at Low Temperatures (0–5 °C). __Scientific Reports__ 05/2017; 7(1):2253., DOI:10.1038/s41598-017-02475-9
 
@@ -117,13 +120,13 @@ Award: __Society of general Microbiology travel grant__ (SGM Dublin 2012)
 ### Molecular biology
 * Standard skills such as electrophoresis and aseptic methods
 * PCR, RT-qPCR
-*	Next gen sequncing library preparation 	
+*	Next gen sequencing library preparation 	
 *	DNA extraction and purification (various and method development)
 *	DGGE fingerprinting
 *	PLFA and PLEL fingerprinting
 *	DNA quantification with Pico Green
 *	DNA sizing and quantification with Bioanalyzer
-* loop mediated isothermal amplification (LAMP)
+* Loop mediated isothermal amplification (LAMP)
 
 ### Analytical chemistry
 * GC-MS, GC-FID, GC, TOC, and HPLC 
@@ -151,7 +154,6 @@ Award: __Society of general Microbiology travel grant__ (SGM Dublin 2012)
   * Multivariate analysis (Ordination, multiple linear regression)
   * Regression trees
   
-  
 * Analysis of Meta-barcoded next generation sequencing data
 * Handling large datasets 
 * Sequence data handling (use of FASTA,FASTQ etc. file formats) 
@@ -163,7 +165,7 @@ Award: __Society of general Microbiology travel grant__ (SGM Dublin 2012)
   * Ordination (MDS, PCA, CCA, etc.)
   * Significance testing (PerMANOVA, simper, ANOSIM)
   * OTU significance testing (differential abundance) with various methods inc LEFSE
-* Phylogenics 
+* Phylogenies 
 
 ## Computer skills
 * Linux
@@ -171,7 +173,7 @@ Award: __Society of general Microbiology travel grant__ (SGM Dublin 2012)
 * Bash
 * Basic Python
 * Latex
-* Comuter cluster use
+* Computer cluster use
 * Remote SSH computing
 * Windows and MS Office 
 
@@ -196,7 +198,7 @@ Award: __Society of general Microbiology travel grant__ (SGM Dublin 2012)
 * Full (clean) UK drivers licence
 
 ## Courses
-* Fundamentals of Aerosol Science (British Aerosol Society, Novomber 2015)
+* Fundamentals of Aerosol Science (British Aerosol Society, November 2015)
 * Astrobiology and the Search for Extra-terrestrial Life (Coursera University of Edinburgh, 2014)
 * Generalised Linear Modelling in R, (Imperial College London, 2011)
 * SItEMICRO course in Microbial Ecology. (Messina Italy, 2011)
@@ -228,7 +230,7 @@ __MMEG 2013__ (2013) Essex. Inﬂuence of microbial community structure on perfo
 
 __INTECOL__ (2013) London. Inﬂuence of microbial community structure on performance of anaerobic digestion. 
 
-__society for general Microbiology, sping conference__ (2012) Dublin.  Inﬂuence of stress events on microbial communities in anaerobic digesters. 
+__society for general Microbiology, Spring conference__ (2012) Dublin. Inﬂuence of stress events on microbial communities in anaerobic digesters. 
 
 ### Posters
 
@@ -251,7 +253,7 @@ __WasteEng 2012__ (2012) Porto. Influence of glycerol overload on microbial comm
 
 0000-0001-7966-8350
 
-## Other resposibiltys and commities
+## Other responsibilities and committees
 
 * Athena Swan Committee, School of Biological Sciences (Essex University)
 * Early Career Researcher Committee, School of Biological Sciences (Essex University)
@@ -265,7 +267,7 @@ __WasteEng 2012__ (2012) Porto. Influence of glycerol overload on microbial comm
 * Molecular Ecology Resources
 * Journal of Aerosol Science
 * Marine Pollution Bulletin
-* Indoor and Built Enivironment
+* Indoor and Built Environment
 * Environmental Pollution
 * Environment International
 
