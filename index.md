@@ -13,26 +13,26 @@ Molecular Ecologist
 
 ## Current Employment
 `2015 onwards`
-__Senior postdoctoral researcher at the Univeristy of Essex__
+__Senior postdoctoral researcher at the University of Essex__
 
-Developting rapid molecular tools for monitoring bioaerosols. 
+Developing rapid molecular tools for monitoring bioaerosols. 
 ## Specialized in
 
-Molecular Ecology, Enviromental Microbilogy, Microbial Ecology
+Molecular Ecology, Environmental Microbiology, Microbial Ecology
 ## Research interests
 
-Applied micrbiology Aerobiology, Bioaerosols, Bioremediation, Oil Microbiology, Aquaculture, Deepsea, Nanoparticles, Anerobic Digestion
+Applied microbiology Aerobiology, Bioaerosols, Bioremediation, Oil Microbiology, Aquaculture, Deepsea, Nanoparticles, Anaerobic Digestion
 
 ## Previous Employment
 `2014-2015`
-__Postdoctoral reserch assistant at the University of Aberdeen__
+__Postdoctoral research assistant at the University of Aberdeen__
 
 Investigating bacterial oil degradation in deepsea sediments.
 
 `2007-2008`
-__Field biologist, Mauricuous Wildlife foundation__
+__Field biologist, Mauritius Wildlife foundation__
 
-Passerine revovery project. 
+Passerine recovery project. 
 
 ## Education 
 `2010-2013`
@@ -71,7 +71,7 @@ __RMW Ferguson__, D.L. Merrifield, G.M. Harper, M D Rawling, S Mustafa, S Picchi
 
 ### Book chapters
 
-Alex J. Dumbrell, __RMW Ferguson__, Dave R. Clark: Microbial Community Analysis by Single-Amplicon High-Throughput Next Generation Sequencing: Data Analysis – From Raw Output to Ecology. Hydrocarbon and lipid microbiology protocols. Microbial Quantitation, Community Profiling and Array Approaches, 1st edited by McGenity TJ, Timmis KN, Nogales B, 01/2017: chapter 10: pages 1-52; Springer-Verlag Berlin Heidelberg., ISBN: 978-3-662-52776-4, DOI:10.1007/8623_2016_228
+AJ Dumbrell, __RMW Ferguson__, DR Clark: Microbial Community Analysis by Single-Amplicon High-Throughput Next Generation Sequencing: Data Analysis – From Raw Output to Ecology. Hydrocarbon and lipid microbiology protocols. Microbial Quantitation, Community Profiling and Array Approaches, 1st edited by McGenity TJ, Timmis KN, Nogales B, 01/2017: chapter 10: pages 1-52; Springer-Verlag Berlin Heidelberg., ISBN: 978-3-662-52776-4, DOI:10.1007/8623_2016_228
 
 ### PhD Thesis
 
@@ -91,7 +91,7 @@ Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate stru
 
 ## Skills
 
-## Profetional membership
+## Professional membership
 
 
 
