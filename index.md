@@ -22,8 +22,9 @@ Molecular Ecology, Enviromental Microbilogy
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Microbial Ecology, Applied micrbiology Aerobiology, Bioaerosols, Bioremediation, Oil Microbiology, Aquaculture, Nanoparticles, Anerobic Digestion
 
+## Employment
 
 ## Education
 
@@ -40,7 +41,7 @@ __University of Plymouth__
 -Bsc(hons) Marine biology
 
 
-## Awards
+## Grants and Awards
 
 `2012`
 President, *Royal Society*, London, UK
