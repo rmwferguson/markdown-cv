@@ -37,19 +37,19 @@ Passerine recovery project.
 ## Education 
 `2010-2013`
 __Cranfield University__
- -PhD: Microbial ecology of anaerobic digestion.
+ - PhD: Microbial ecology of anaerobic digestion
 
 `2008-2009`
 __University of Plymouth__
- -MSc: Sustainable Aquaculture Systems.
+ - MSc: Sustainable Aquaculture Systems
 
 `2004-2007`
 __University of Plymouth__
- -Bsc(hons): Marine biology.
+ - Bsc(hons): Marine biology
 
 `1996-2003`
 __Bristol Cathedral School__
-A Level Biology (B), Chemistry (B), and Music (B) 
+ - A Level Biology (B), Chemistry (B), and Music (B) 
 
 ## Publications
 
