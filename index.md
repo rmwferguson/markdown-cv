@@ -92,7 +92,7 @@ Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate stru
 ## lab skills
 
 ### Molecular biology
-*S tandard skills such as electrophoresis and aseptic methods.
+* Standard skills such as electrophoresis and aseptic methods.
 * PCR, qPCR
 *	Next gen seq library prep with netxtra indexes.	
 *	DNA extraction and purification (various and method development)
@@ -114,7 +114,35 @@ Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate stru
 *Flow cytometry
 *Fish hematologic analysis and immune assays 
 
+## Statistics and bioinformatics
 
+* Statistical software (R, Primer, Statistica, SPSS, and Minitab)
+  * General significance testing (T-tests, ANOVA etc.) data transformation
+  * Linear modelling inc, mixed effects models, multiple regression, and generalized linear models
+  * Model simplification and checking 
+  * Multivariate analysis (Ordination, multiple linear regression)
+  * Regression trees
+  
+* Analysis of Meta-barcoded next generation sequencing data
+* Sequence data handling (use of FASTA,FASTQ etc. file formats) 
+* Initial data QC and clean up 
+* QIIME, Mothur, RDP pipeline and other standalone tools
+* BlastN command line 
+* Alpha diversity indexes
+* beta-diversity
+  * Ordination (MDS, PCA, CCA, etc.)
+  * Significance testing (PerMANOVA, simper, ANOSIM)
+  * OTU significance testing (differential abundance) with various methods inc LEFSE
+* Handling large datasets 
+
+## Computer skills
+* Linux
+* Maintaining databases
+* Bash
+* Basic Python
+* Latex
+* Comuter cluster use
+* Remote SSH computing
 
 ## Professional membership
 
