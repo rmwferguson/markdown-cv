@@ -166,50 +166,50 @@ Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate stru
 
 ## Technical qualifications
 
-* HSE Pro SCUBA, 
+* HSE Pro SCUBA 
 * RYA level 2 Power boat
 * GMDSS marine VHF
-* RYA survival at sea.
-* Full (clean) UK drivers licence.
+* RYA survival at sea
+* Full (clean) UK drivers licence
 
 ## Courses
-* Generalised Linear Modelling in R, Imperial College London
-* SItEMICRO course in Microbial Ecology. Messina Italy
-* Standing up for science media workshop, Sense about Science
-* Astrobiology and the Search for Extra-terrestrial Life, Coursera University of Edinburgh
-* Fundamentals of Aerosol Science, British Aerosol Society
-* Introduction to BioLinux (Essex)
+* Fundamentals of Aerosol Science (British Aerosol Society, Novomber 2015)
+* Astrobiology and the Search for Extra-terrestrial Life (Coursera University of Edinburgh, 2014)
+* Generalised Linear Modelling in R, (Imperial College London, 2011)
+* SItEMICRO course in Microbial Ecology. (Messina Italy, 2011)
+* Standing up for science media workshop, (Sense about Science, 2011)
+* Introduction to BioLinux (Essex, December 2013)
 * Analytical chemistry for researchers (Canﬁeld, November 2010)
 
 ## Conferences
 ### Presentations
 
-EAC 2017 Zurich. The bioaerosol bacterial microbiome at urban, agricultural, and industrial sites: Exposure, size fraction and composition.
+__European Aerosol Conference__ (2017)  Zurich. The bioaerosol bacterial microbiome at urban, agricultural, and industrial sites: Exposure, size fraction and composition.
 
-British Aerosol Society focus meeting 10, Bioaerosols (2017) Novel Insights into the size distributions of bioaerosols.
+__British Aerosol Society focus meeting 10, Bioaerosols__ (2017) Novel Insights into the size distributions of bioaerosols.
 
-Bioaerosol, microbiome & lung disease symposium (2017) RIVM, Bilthoven- Rapid monitoring of bioaerosols in Urban, Agricultural and Industrial Environments. 
+__Bioaerosol, microbiome & lung disease symposium__ (2017) Utrecht University, Bilthoven- Rapid monitoring of bioaerosols in Urban, Agricultural and Industrial Environments. 
 
-BAS annual meeting 2016 Birmingham. Efficient and Rapid Recovery of bioaerosol DNA From the Air. 
+__BAS annual meeting__ (2016) Birmingham. Efficient and Rapid Recovery of bioaerosol DNA From the Air. 
 
-GASG 64 2016 Cranfield. Rapid monitoring of Bioaerosols – DNA collection and analysis.
+__GASG 64__ (2016) Cranfield. Rapid monitoring of Bioaerosols – DNA collection and analysis.
 
-MASTS 4th annual conference 2014 Edinburgh. Linking biodiversity to ecosystem services in the deep sea.  
+__MASTS 4th annual conference__ (2014) Edinburgh. Linking biodiversity to ecosystem services in the deep sea.  
 
-MMEG 2013 Essex. Inﬂuence of microbial community structure on performance of anaerobic digestion.
+__MMEG 2013__ (2013) Essex. Inﬂuence of microbial community structure on performance of anaerobic digestion.
 
-INTECOL 2013 London. Inﬂuence of microbial community structure on performance of anaerobic digestion. 
+__INTECOL__ (2013) London. Inﬂuence of microbial community structure on performance of anaerobic digestion. 
 
-SGM 2012 Dublin.  Inﬂuence of stress events on microbial communities in anaerobic digesters. 
+__society for general Microbiology, sping conference__ (2012) Dublin.  Inﬂuence of stress events on microbial communities in anaerobic digesters. 
 
 
 ### Posters
 
-ISMOS 6 (San Diego) (2017) The Variable Influence of Dispersant on Degradation of Oil Hydrocarbons in Subarctic Deep-Sea Sediments at Low Temperatures (0–5 °C). 
+__International Symposium on Applied Microbiology and Molecular Biology in Oil Systems 6__ (2017) San Diego. The Variable Influence of Dispersant on Degradation of Oil Hydrocarbons in Subarctic Deep-Sea Sediments at Low Temperatures (0–5 °C). 
 
-European Aerosol conference 2016 Tours. Rapid monitoring of bioaerosols in industrial, agricultural and urban environments.
+__European Aerosol conference__ (2016) Tours. Rapid monitoring of bioaerosols in industrial, agricultural and urban environments.
 
-WasteEng 2012 Porto. Influence of glycerol overload on microbial communities in anaerobic digesters.
+__WasteEng 2012__ (2012) Porto. Influence of glycerol overload on microbial communities in anaerobic digesters.
 
 
 ## Professional membership
