@@ -30,7 +30,7 @@ Investigating bacterial oil degradation in deepsea sediments.
 `2007-2008`
 __Field biologist, Mauricuous Wildlife foundation__
 
-Passerine revovery project 
+Passerine revovery project. 
 
 ## Education 
 `2010-2013`
@@ -43,7 +43,7 @@ __University of Plymouth__
 
 `2004 - 2007`
 __University of Plymouth__
--Bsc(hons) Marine biology.
+-Bsc(hons): Marine biology.
 
 ## Publications
 
