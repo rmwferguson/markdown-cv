@@ -41,8 +41,9 @@ __University of Plymouth__
 -Bsc(hons) Marine biology.
 
 ## Publications
+<div id="webaddress">
+<a href="https://scholar.google.co.uk/citations?user=H_F1eCkAAAAJ&hl=en">A list is also available [online](https://scholar.google.co.uk/citations?user=H_F1eCkAAAAJ&h)</a>
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ## Grants and Awards
 
