@@ -9,8 +9,7 @@ Molecular Ecologist
 <a href="rmwfer@essex.ac.uk">rmwfer@essex.ac.uk</a>
 | <a href="rmwferguson@gmail.com">rmwferguson@gmail.com</a>
   | <a href="https://rmwferguson.wordpress.com/">rmwferguson.wordpress.com</a>
-  | <a href="https://www1.essex.ac.uk/bs/staff/profile.aspx?ID=4521">Faculty webpage</a>
-| <a href="https://scholar.google.co.uk/citations?user=H_F1eCkAAAAJ&hl=en">Google Scholar</a>
+| <a href="https://scholar.google.co.uk/citations?user=H_F1eCkAAAAJ&hl=en">https://scholar.google.co.uk/citations?user=H_F1eCkAAAAJ&hl=en</a>
 </div>
 
 
