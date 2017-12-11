@@ -43,7 +43,7 @@ __University of Plymouth__
 ## Publications
 <div id="webaddress">
 <a href="https://scholar.google.co.uk/citations?user=H_F1eCkAAAAJ&hl=en">A list is also available [online](https://scholar.google.co.uk/citations?user=H_F1eCkAAAAJ&h)</a>
-
+</div>
 
 ## Grants and Awards
 
@@ -55,8 +55,8 @@ Grant:__Aerosol Society Undergraduate Research Bursary__ - Investigate structure
 
 
 
-<!-- ### Footer
 
-Last updated: Dec 2017 -->
+
+#### Last updated: Dec 2017 
 
 
