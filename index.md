@@ -31,9 +31,11 @@ Investigating bacterial oil degradation in deepsea sediments.
 `2010-2013`
 __Cranfield University__
 -PhD: Feedstocks influence on the microbial community and process parameters in anaerobic digestion.
+
 `2008 - 2009`
 __University of Plymouth__
 -MSc: Sustainable Aquaculture Systems.
+
 `2004 - 2007`
 __University of Plymouth__
 -Bsc(hons) Marine biology.
