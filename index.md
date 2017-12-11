@@ -81,10 +81,6 @@ AJ Dumbrell, __RMW Ferguson__, DR Clark: Microbial Community Analysis by Single-
 
 __RMW Ferguson__ Feedstocks influence on the process parameters and the microbial community in anaerobic digestion, Supervised by Raffaella Villa and Frédéric Coulon,  Cranfield University  
 
-### Conference proceedings
-
-__RMW Ferguson__, F Coulon, R Villa: Influence of glycerol overload on microbial communities in anaerobic digesters. 4th International Conference on Engineering for Waste and Biomass Valorisation, Porto; 09/2012
-
 ## Grants and Awards
 
 `2017`
@@ -92,6 +88,11 @@ Grant: __The Aerosol Society Small Research Grant 2017__ - Using metagenomics fo
 
 `2016`
 Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate structure of bioaerosol bacterial communities in different size factions using culture independent methods. (£1200)
+
+`2013`
+Award: __British Ecological Society Travel grant__ (INTECOL 2013) 
+
+Award: __Society of general Microbiology travel grant__ (SGM Dublin 2012)
 
 ## lab skills
 
@@ -186,6 +187,11 @@ Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate stru
 * Analytical chemistry for researchers (Canﬁeld, November 2010)
 
 ## Conferences
+
+### Conference proceedings
+
+__RMW Ferguson__, F Coulon, R Villa: Influence of glycerol overload on microbial communities in anaerobic digesters. 4th International Conference on Engineering for Waste and Biomass Valorisation, Porto; 09/2012
+
 ### Presentations
 
 __European Aerosol Conference__ (2017)  Zurich. The bioaerosol bacterial microbiome at urban, agricultural, and industrial sites: Exposure, size fraction and composition.
@@ -205,7 +211,6 @@ __MMEG 2013__ (2013) Essex. Inﬂuence of microbial community structure on perfo
 __INTECOL__ (2013) London. Inﬂuence of microbial community structure on performance of anaerobic digestion. 
 
 __society for general Microbiology, sping conference__ (2012) Dublin.  Inﬂuence of stress events on microbial communities in anaerobic digesters. 
-
 
 ### Posters
 
@@ -230,8 +235,12 @@ __WasteEng 2012__ (2012) Porto. Influence of glycerol overload on microbial comm
 
 ## Other resposibiltys and commities
 
-* Athena Swan Committee, School of Biological Sciences, Essex University. 
-* Early Career Researcher Committee, School of Biological Sciences, Essex University.
+* Athena Swan Committee, School of Biological Sciences (Essex University)
+* Early Career Researcher Committee, School of Biological Sciences (Essex University)
+* Grant Reviewing
+*	Supervision of undergraduate and MSc students in the lab and field
+*	Grant writing
+*	Organising group seminar series at Essex University
 
 ## Journal Referee
 
@@ -241,24 +250,6 @@ __WasteEng 2012__ (2012) Porto. Influence of glycerol overload on microbial comm
 * Indoor and Built Enivironment
 * Environmental Pollution
 * Environment International
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
