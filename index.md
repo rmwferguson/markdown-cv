@@ -47,6 +47,10 @@ __University of Plymouth__
 __University of Plymouth__
  -Bsc(hons): Marine biology.
 
+`1996-2003`
+__Bristol Cathedral School__
+A Level Biology (B), Chemistry (B), and Music (B) 
+
 ## Publications
 
 <div id="webaddress">
@@ -115,7 +119,7 @@ Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate stru
 * Culture based microbiology and systematic identification
 *	Culture based microbiology
 * Basic microscopy
-*	Waste water analysis (alkalinity, COD, etc.)
+*	Water and waste water analysis (alkalinity, COD, BOD, ammonia, nitrate,  etc.)
 * Flow cytometry
 * Fish hematologic analysis and immune assays 
 
@@ -155,14 +159,14 @@ Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate stru
 ## Field Skills
 
 * Planning and risk assessment
-* Air sampling for bioaerosols and PM – Essex University
-* Marine sampling with corers, grabs, trawls, CTD, and Niskin/Nansen bottles, Including deep-sea – Aberdeen University and Plymouth University.
-* Scientific Diving – Visual/photographic dive surveys and Collection of sediment corers -Coral Cay Conservation and Plymouth University.
-* Monitoring, Relocation, and supplementary feeding of critically endangered Olive White Eye - Mauritius Wildlife Foundation.
-* Collection of plant material and soil cores - ﬁeld assistant for Imperial Collage London.
-* Monitoring nesting successes of turtles - Katelios Group.
-* Invertebrate river bed surveys with kick nets - Plymouth University.
-* Identification of marine life UK and South Pacific.
+* Air sampling for bioaerosols and PM 
+* Marine sampling with corers, grabs, trawls, CTD, and Niskin/Nansen bottles, Including deep-sea
+* Scientific Diving – Visual/photographic dive surveys and Collection of sediment corers 
+* Monitoring, Relocation, and supplementary feeding of critically endangered Olive White Eye 
+* Collection of plant material and soil cores 
+* Monitoring nesting successes of turtles 
+* Invertebrate river bed surveys with kick nets 
+* Identification of marine life UK and South Pacific
 
 ## Technical qualifications
 
@@ -188,7 +192,7 @@ __European Aerosol Conference__ (2017)  Zurich. The bioaerosol bacterial microbi
 
 __British Aerosol Society focus meeting 10, Bioaerosols__ (2017) Novel Insights into the size distributions of bioaerosols.
 
-__Bioaerosol, microbiome & lung disease symposium__ (2017) Utrecht University, Bilthoven- Rapid monitoring of bioaerosols in Urban, Agricultural and Industrial Environments. 
+__Bioaerosol, microbiome & lung disease symposium__ (2017) Utrecht University, Rapid monitoring of bioaerosols in Urban, Agricultural and Industrial Environments. 
 
 __BAS annual meeting__ (2016) Birmingham. Efficient and Rapid Recovery of bioaerosol DNA From the Air. 
 
