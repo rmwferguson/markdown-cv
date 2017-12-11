@@ -1,7 +1,3 @@
----
-layout: cv
-title: Robert M.W. Ferguson
----
 # Dr Robert M.W. Ferguson
 Molecular Ecologist
 
