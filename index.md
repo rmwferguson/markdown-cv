@@ -47,43 +47,15 @@ __University of Plymouth__
 ## Grants and Awards
 
 `2017`
-Grant: The Aerosol Society Small Research Grant 2017, Using metagenomics for fine-scale resolution of pathogen functional and phylogenetic diversity in farm bioaerosols
+Grant: __The Aerosol Society Small Research Grant 2017__ - Using metagenomics for fine-scale resolution of pathogen functional and phylogenetic diversity in farm bioaerosols
 
-'2016`
-Grant: Aerosol Society Undergraduate Research Bursary
-
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2016`
+Grant:__Aerosol Society Undergraduate Research Bursary__ - Investigate structure of bioaerosol bacterial communities in different size factions using culture independent methods.
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2017 -->
 
 
