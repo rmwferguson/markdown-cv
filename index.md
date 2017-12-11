@@ -11,11 +11,11 @@ Molecular Ecologist
   | <a href="https://rmwferguson.wordpress.com/">rmwferguson.wordpress.com</a>
 </div>
 
-
 ## Currently
 
-Senior postdoctoral researcher at the Univeristy of Essex
-
+`2015 onwards`
+__Senior postdoctoral researcher at the Univeristy of Essex__
+Developting rapid molecular tools for monitoring bioaerosols 
 ### Specialized in
 
 Molecular Ecology, Enviromental Microbilogy
@@ -26,7 +26,12 @@ Microbial Ecology, Applied micrbiology Aerobiology, Bioaerosols, Bioremediation,
 
 ## Employment
 
-## Education
+`2014-2015`
+__Post Doctoral reserch assistant__
+University of Aberdeen, School of Biological Sciences
+Investigating bacterial degradation of oil in deepsea sediments
+
+## Education 
 
 `2010-2013`
 __Cranfield University__
@@ -34,7 +39,7 @@ __Cranfield University__
 
 `2008 - 2009`
 __University of Plymouth__
--MSc: Aquaculture
+-MSc: Sustainable Aquaculture Systems
 
 `2004 - 2007`
 __University of Plymouth__
