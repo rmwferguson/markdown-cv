@@ -15,13 +15,14 @@ Molecular Ecologist
 
 `2015 onwards`
 __Senior postdoctoral researcher at the Univeristy of Essex__
-Developting rapid molecular tools for monitoring bioaerosols 
+Developting rapid molecular tools
+for monitoring bioaerosols. 
 
-### Specialized in
+## Specialized in
 
 Molecular Ecology, Enviromental Microbilogy
 
-### Research interests
+## Research interests
 
 Microbial Ecology, Applied micrbiology Aerobiology, Bioaerosols, Bioremediation, Oil Microbiology, Aquaculture, Nanoparticles, Anerobic Digestion
 
@@ -29,7 +30,8 @@ Microbial Ecology, Applied micrbiology Aerobiology, Bioaerosols, Bioremediation,
 
 `2014-2015`
 __Post Doctoral reserch assistant at the University of Aberdeen__
-Investigating bacterial degradation of oil in deepsea sediments
+
+Investigating bacterial oil degradation in deepsea sediments.
 
 ## Education 
 
