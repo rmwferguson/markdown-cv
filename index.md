@@ -29,20 +29,15 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 `2010-2013`
 __Cranfield University__
+-PhD: Feedstocks influence on the microbial community and process parameters in anaerobic digestion.
 
 `2008 - 2009`
 __University of Plymouth__
+-MSc: Aquaculture
 
 `2004 - 2007`
 __University of Plymouth__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+-Bsc(hons) Marine biology
 
 
 ## Awards
