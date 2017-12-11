@@ -89,9 +89,63 @@ Grant: __The Aerosol Society Small Research Grant 2017__ - Using metagenomics fo
 `2016`
 Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate structure of bioaerosol bacterial communities in different size factions using culture independent methods.
 
-## Skills
+## lab skills
+
+### Molecular biology
+*Standard skills such as electrophoresis and aseptic methods.
+*PCR, qPCR
+*	Next gen seq library prep with netxtra indexes.	
+*	DNA extraction and purification (various and method development)
+*	DGGE fingerprinting
+*	PLFA and PLEL fingerprinting
+*	DNA quantification with Pico Green
+*	DNA sizing and quantification with Bioanalyzer.
+*Analytical chemistry
+*GC-MS, GC-FID, GC, TOC, and HPLC. 
+*GC method development and QC.
+*Quantification using external and internal std
+*Lipid and hydrocarbon extraction from various matrix.
+*Sample preparation, PLFA and PLEL
+*General lab skills, method development, trouble shooting, risk assessment, COSHH, planning etc.
+*Culture based microbiology and systematic identification.
+*	Culture based microbiology.
+*Basic microscopy. 
+*	Waste water analysis (alkalinity, COD, etc.)
+*Flow cytometry
+*Fish hematologic analysis and immune assays 
+
+
 
 ## Professional membership
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
