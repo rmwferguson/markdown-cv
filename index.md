@@ -12,42 +12,31 @@ Molecular Ecologist
 </div>
 
 ## Current Employment
-
 `2015 onwards`
 __Senior postdoctoral researcher at the Univeristy of Essex__
-Developting rapid molecular tools
-for monitoring bioaerosols. 
 
+Developting rapid molecular tools for monitoring bioaerosols. 
 ## Specialized in
 
 Molecular Ecology, Enviromental Microbilogy
-
 ## Research interests
-
 Microbial Ecology, Applied micrbiology Aerobiology, Bioaerosols, Bioremediation, Oil Microbiology, Aquaculture, Nanoparticles, Anerobic Digestion
-
 ## Employment
-
 `2014-2015`
 __Post Doctoral reserch assistant at the University of Aberdeen__
 
 Investigating bacterial oil degradation in deepsea sediments.
 
 ## Education 
-
 `2010-2013`
 __Cranfield University__
 -PhD: Feedstocks influence on the microbial community and process parameters in anaerobic digestion.
-
 `2008 - 2009`
 __University of Plymouth__
--MSc: Sustainable Aquaculture Systems
-
+-MSc: Sustainable Aquaculture Systems.
 `2004 - 2007`
 __University of Plymouth__
--Bsc(hons) Marine biology
-
-
+-Bsc(hons) Marine biology.
 ## Grants and Awards
 
 `2012`
