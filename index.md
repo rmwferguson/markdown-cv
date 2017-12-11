@@ -14,12 +14,11 @@ Molecular Ecologist
 
 ## Currently
 
-Standing on the shoulders of giants
+Senior postdoctoral researcher at the Univeristy of Essex
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Molecular Ecology, Enviromental Microbilogy
 
 ### Research interests
 
@@ -28,11 +27,14 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010-2013`
+__Cranfield University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2008 - 2009`
+__University of Plymouth__
+
+`2004 - 2007`
+__University of Plymouth__
 
 - Sizar
 
