@@ -8,6 +8,7 @@ Molecular Ecologist
 <div id="webaddress">
 <a href="rmwfer@essex.ac.uk">rmwfer@essex.ac.uk</a>
 | <a href="https://rmwferguson.wordpress.com/">My Website</a>
+  | <a href="rmwferguson@gmail.com">My Website</a>
 </div>
 
 
