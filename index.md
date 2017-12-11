@@ -3,7 +3,7 @@ layout: cv
 title: Robert M.W. Ferguson
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Molecular Ecologist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
