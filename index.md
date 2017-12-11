@@ -92,8 +92,8 @@ Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate stru
 ## lab skills
 
 ### Molecular biology
-*Standard skills such as electrophoresis and aseptic methods.
-*PCR, qPCR
+*S tandard skills such as electrophoresis and aseptic methods.
+* PCR, qPCR
 *	Next gen seq library prep with netxtra indexes.	
 *	DNA extraction and purification (various and method development)
 *	DGGE fingerprinting
