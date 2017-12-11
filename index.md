@@ -69,7 +69,7 @@ __RMW Ferguson__, D.L. Merrifield, G.M. Harper, M D Rawling, S Mustafa, S Picchi
 
 #### Book chapters
 
-Alex J. Dumbrell, __Robert M. W. Ferguson__, Dave R. Clark: Microbial Community Analysis by Single-Amplicon High-Throughput Next Generation Sequencing: Data Analysis – From Raw Output to Ecology. Hydrocarbon and lipid microbiology protocols. Microbial Quantitation, Community Profiling and Array Approaches, 1st edited by McGenity TJ, Timmis KN, Nogales B, 01/2017: chapter 10: pages 1-52; Springer-Verlag Berlin Heidelberg., ISBN: 978-3-662-52776-4, DOI:10.1007/8623_2016_228
+Alex J. Dumbrell, __RMW Ferguson__, Dave R. Clark: Microbial Community Analysis by Single-Amplicon High-Throughput Next Generation Sequencing: Data Analysis – From Raw Output to Ecology. Hydrocarbon and lipid microbiology protocols. Microbial Quantitation, Community Profiling and Array Approaches, 1st edited by McGenity TJ, Timmis KN, Nogales B, 01/2017: chapter 10: pages 1-52; Springer-Verlag Berlin Heidelberg., ISBN: 978-3-662-52776-4, DOI:10.1007/8623_2016_228
 
 #### PhD Thesis
 
