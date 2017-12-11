@@ -69,6 +69,7 @@ __Bristol Cathedral School__
 * Data analysis
 * Field work
 * Budget management
+*	Grant writing
 
  See below for specific details
 
@@ -259,7 +260,6 @@ __WasteEng 2012__ (2012) Porto. Influence of glycerol overload on microbial comm
 * Early Career Researcher Committee, School of Biological Sciences (Essex University)
 * Grant Reviewing
 *	Supervision of undergraduate and MSc students in the lab and field
-*	Grant writing
 *	Organising group seminar series at Essex University
 
 ## Journal Referee
