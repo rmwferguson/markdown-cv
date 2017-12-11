@@ -85,7 +85,7 @@ __RMW Ferguson__, F Coulon, R Villa: Influence of glycerol overload on microbial
 Grant: __The Aerosol Society Small Research Grant 2017__ - Using metagenomics for fine-scale resolution of pathogen functional and phylogenetic diversity in farm bioaerosols
 
 `2016`
-Grant:__Aerosol Society Undergraduate Research Bursary__ - Investigate structure of bioaerosol bacterial communities in different size factions using culture independent methods.
+Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate structure of bioaerosol bacterial communities in different size factions using culture independent methods.
 
 
 
